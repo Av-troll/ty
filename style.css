@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+font-family: 'Patrick Hand', cursive;
+}
+#navbar8{
+    background-color: whitesmoke;
+    color: black;
+
+}
+#navbar8:hover{
+    color: rgb(78, 4, 78);
+}
+#header{
+    background-color: black;
+    color:white;
+}
+#logo{
+    width: 300px;
+    height: 300px;
+}
+#aboutus{
+    margin-left: 200px;
+    margin-right:200px;
+    background-color: white;
+    margin-top: 0px;
+}
+#goal{font-family: 'Patrick Hand', cursive;}
+p{font-family: 'Patrick Hand', cursive;}
+.profilepic{
+    width: 50px;
+    height: 50px;
+}
+.sectiona{
+    background-color: white;
+    margin-left: 200px;
+    margin-right:200px;
+    margin-top: 100px;
+}
+#welx{
+    width: 500px;
+    height: 450px;
+}
+#learn{
+    width:900px;
+}
+#quicklinks{
+    background-color: black;
+    color: ghostwhite;
+text-align: left;}
+.links{
+color: ghostwhite;
+text-decoration: none;
+}
+#header-logo{
+    width: 50px;
+    height: 50px;
+}
+#logo{
+width: 500px;
+height: 500px;
+}
